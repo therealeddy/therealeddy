@@ -1,6 +1,6 @@
 <img align="right" height="200px" src="./image.png" />
 
-# Olá 👋
+# Hello 👋
 Meu nome é Eduardo Mauricio e sou Web Developer. Apaixonado pela comunidade javascript, amo me relacionar com as pessoas, entender problemas e propor soluções. Atualmente trabalho com Frontend utilizando **React JS Utilizando TypeScript**, Mas também tenho conhecimento em Backend usando **Node**.
 
 Formado em Bacharelado em Sistemas de Informação na PUCPR, amo estudar e estar por dentro do que aconteçe de novo na área de tecnologia.
