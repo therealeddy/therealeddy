@@ -8,5 +8,5 @@ Formado em Bacharelado em Sistemas de Informação na PUCPR, amo estudar e estar
 Amo programar, e amo transmitir meu conhecimento as pessoas ao meu redor.
 
 ### :mailbox: Vamos trocar uma ideia?	
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardomfonseca/)
-[![Gmail Badge](https://img.shields.io/badge/Email-006b0b?style=flat-square&logo=Microsoft&logoColor=white)](mailto:eduardo.mfonseca@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/eduardomfonseca/)
+[![Gmail Badge](https://img.shields.io/badge/Email-7159c1?style=flat-square&logo=Microsoft&logoColor=white)](mailto:eduardo.mfonseca@hotmail.com)
