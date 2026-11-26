@@ -15,9 +15,9 @@ Formado em Sistemas de Informação pela PUCPR.
 
 ### 🛠️ Stack
 
-**Front-end:** React · Next.js · TypeScript · JavaScript · HTML · CSS
-**Back-end:** Node.js · Express · PostgreSQL · Redis
-**Ferramentas:** Git · GitHub Actions · Docker · Turborepo · Vitest · Vercel
+- **Front-end:** React · Next.js · TypeScript · JavaScript · HTML · CSS
+- **Back-end:** Node.js · Express · PostgreSQL · Redis
+- **Ferramentas:** Git · GitHub Actions · Docker · Turborepo · Vitest · Vercel
 
 ### 🚧 Construindo agora
 
